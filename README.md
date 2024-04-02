@@ -22,6 +22,7 @@ git clone https://github.com/WusThanhDieu/Profile-ThanhDieu.Com-V5-Tester.git
 ## Hướng Dẫn
 
 Chỉnh sửa chung ở đường dẫn {domain}/res/config/option.php
+
 Chỉnh sửa tài nguyên ở: {domain}/res/v5/*
 
 ## Demo
