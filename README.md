@@ -8,7 +8,7 @@
 * Thêm animation màn hình khoá, thêm chế độ chuyển sang love day responsive, Tối ưu hóa hiệu ứng chuyển động.
 * Vá lỗi nhỏ khi chọn nhạc & tự động chuyển nhạc trong panel setting.
 * Đã tích hợp xoá cache bằng js kèm vào đó nhân bản class fake ở DOM. Loại bỏ nền gradient và tối ưu hóa animation cũng như độ trễ.
-* Loader Screen thông minh tự động hiện khi trang chưa tải xong, tự động ẩn khi trang đã tải xong hoàn toàn, hiện thanh % khi trang tải tới đâu, sửa lỗi loader chồng lên nhau.
+* Loader Screen thông minh tự động hiện khi trang chưa tải xong, tự động ẩn khi trang đã tải xong hoàn toàn, khi trang tải tới đâu thanh % sẽ hiện tới đó, sửa lỗi loader chồng lên pace-active.
 
 
 ## Tải Xuống
