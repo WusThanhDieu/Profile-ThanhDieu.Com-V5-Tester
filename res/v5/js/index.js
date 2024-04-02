@@ -17,13 +17,14 @@ $(function() {
 let WsLoaded = false; 
 const messages = [
     { message: 'Đang tải tài nguyên...', delay: 0 },
-    { message: 'Đang tải các plugins...', delay: 2000 },
-    { message: 'Chờ xíu sắp tải xong....', delay: 4000 },
-    { message: 'Có thể mất nhiều thời gian', delay: 6000 }
+    { message: 'Đang tải các plugins...', delay: 5000 },
+    { message: 'Chờ xíu sắp tải xong....', delay: 12000 },
+    { message: 'Có thể mất nhiều thời gian', delay: 20000 }
 ];
 messages.forEach(msg => {
     setTimeout(() => {
         if (!WsLoaded) {
+            Wstoast.closeAll();
             WsToast('loading', msg.message);
         }
     }, msg.delay);
