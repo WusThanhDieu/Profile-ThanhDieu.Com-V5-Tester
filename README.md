@@ -1,9 +1,5 @@
 ## Release ThanhDieu.Com V5 Tester
 
-  ## Link Chính
-
- `HttpsThanhDieu.Com`,
-
 ## Mô Tả
 
 * Giao diện thân thiện, được tối ưu hoá để không gây ra tuột khung hình (lag)
