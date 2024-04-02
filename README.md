@@ -1,10 +1,5 @@
 ## Release ThanhDieu.Com V5 Tester
 
-## Demo
-![ThanhDieu.Com](https://i.imgur.com/urmLd6H.png)
-![ThanhDieu.Com](https://i.imgur.com/tOWfTBQ.png)
-![ThanhDieu.Com](https://i.imgur.com/jjvyIvG.png)
-
   ## Link Chính
 
  `HttpsThanhDieu.Com`,
@@ -32,3 +27,8 @@ git clone https://github.com/WusThanhDieu/Profile-ThanhDieu.Com-V5-Tester.git
 
 Chỉnh sửa chung ở đường dẫn {domain}/res/config/option.php
 Chỉnh sửa tài nguyên ở: {domain}/res/v5/*
+
+## Demo
+![ThanhDieu.Com](https://i.imgur.com/urmLd6H.png)
+![ThanhDieu.Com](https://i.imgur.com/tOWfTBQ.png)
+![ThanhDieu.Com](https://i.imgur.com/jjvyIvG.png)
