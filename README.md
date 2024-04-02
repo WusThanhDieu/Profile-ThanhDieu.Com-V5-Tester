@@ -1,6 +1,6 @@
 ## Release ThanhDieu.Com V5 Tester
 
-## Mô Tả
+## Mô Tả V5.0.0
 
 * Giao diện thân thiện, được tối ưu hoá để không gây ra tuột khung hình (lag)
 * Panel Setting đã được thêm vào, tuỳ chỉnh các cài đặt nho nhỏ của trang
