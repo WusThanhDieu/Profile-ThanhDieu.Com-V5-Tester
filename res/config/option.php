@@ -24,8 +24,8 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $SocialNetworks = [
         "facebook" => "https://facebook.com/wusthanhdieu", // Thay link facebook
         "instagram" => "https://www.instagram.com/vuongsondieu2k2", // Thay link instagram
-        "tiktok" => "https://t.me/thanhdieuchannel", // Thay link tiktok
-        "telegram" => "https://www.tiktok.com/" // Thay link telegram
+        "tiktok" => "https://www.tiktok.com/", // Thay link tiktok
+        "telegram" => "https://t.me/thanhdieuchannel" // Thay link telegram
     ];
     public function CommonMethod(){date_default_timezone_set('Asia/Ho_Chi_Minh');}
 }
