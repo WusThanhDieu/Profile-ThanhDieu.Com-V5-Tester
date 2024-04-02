@@ -3,7 +3,7 @@
 ## Mô Tả V5.0.0
 
 * Giao diện thân thiện, được tối ưu hoá để không gây ra tuột khung hình (lag)
-* Panel Setting đã được thêm vào, tuỳ chỉnh các cài đặt nho nhỏ của trang
+* Panel Setting đã được thêm vào, tuỳ chỉnh các cài đặt nho nhỏ của trang.
 * Đã thay đổi tất cả hình ảnh thành biểu tượng, loại bỏ kiểu chuột, tối ưu hóa chi tiết, sửa đổi tất cả các đường dẫn thành đường dẫn tương đối và khắc phục các vấn đề khác.
 * Thêm animation màn hình khoá, thêm chế độ chuyển sang love day responsive, Tối ưu hóa hiệu ứng chuyển động.
 * Vá lỗi nhỏ khi chọn nhạc & tự động chuyển nhạc trong panel setting.
